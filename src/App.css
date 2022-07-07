@@ -1,0 +1,29 @@
+.mr-auto {
+  text-align: center;
+  font-weight: 700;
+  background-color: gray;
+  color: white;
+  display:flex;
+  margin-left:890px;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: gray;
+  color:white;
+  font-weight:700;
+ 
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+  font-size: 12pt;
+  line-height: 3.5em;
+}
+
+tr:hover {background-color: red;}
